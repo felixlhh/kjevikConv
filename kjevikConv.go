@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 )
-
+//jeg er en kommentar
 func celsiusToFahrenheit(temp float64) float64 {
 
 	return (temp * 9 / 5) + 32
